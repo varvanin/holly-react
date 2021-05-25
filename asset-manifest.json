@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/varvanin/holly-react/static/css/main.82e7ebc0.chunk.css",
+    "main.js": "/varvanin/holly-react/static/js/main.0b94ca25.chunk.js",
+    "main.js.map": "/varvanin/holly-react/static/js/main.0b94ca25.chunk.js.map",
+    "runtime-main.js": "/varvanin/holly-react/static/js/runtime-main.64f6cd15.js",
+    "runtime-main.js.map": "/varvanin/holly-react/static/js/runtime-main.64f6cd15.js.map",
+    "static/js/2.41ce228b.chunk.js": "/varvanin/holly-react/static/js/2.41ce228b.chunk.js",
+    "static/js/2.41ce228b.chunk.js.map": "/varvanin/holly-react/static/js/2.41ce228b.chunk.js.map",
+    "index.html": "/varvanin/holly-react/index.html",
+    "static/css/main.82e7ebc0.chunk.css.map": "/varvanin/holly-react/static/css/main.82e7ebc0.chunk.css.map",
+    "static/js/2.41ce228b.chunk.js.LICENSE.txt": "/varvanin/holly-react/static/js/2.41ce228b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64f6cd15.js",
+    "static/js/2.41ce228b.chunk.js",
+    "static/css/main.82e7ebc0.chunk.css",
+    "static/js/main.0b94ca25.chunk.js"
+  ]
+}
