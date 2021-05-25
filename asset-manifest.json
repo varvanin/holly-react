@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/holly-react/static/css/main.82e7ebc0.chunk.css",
-    "main.js": "/holly-react/static/js/main.9cb9512d.chunk.js",
-    "main.js.map": "/holly-react/static/js/main.9cb9512d.chunk.js.map",
+    "main.js": "/holly-react/static/js/main.0f588633.chunk.js",
+    "main.js.map": "/holly-react/static/js/main.0f588633.chunk.js.map",
     "runtime-main.js": "/holly-react/static/js/runtime-main.2adde0ad.js",
     "runtime-main.js.map": "/holly-react/static/js/runtime-main.2adde0ad.js.map",
     "static/js/2.41ce228b.chunk.js": "/holly-react/static/js/2.41ce228b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2adde0ad.js",
     "static/js/2.41ce228b.chunk.js",
     "static/css/main.82e7ebc0.chunk.css",
-    "static/js/main.9cb9512d.chunk.js"
+    "static/js/main.0f588633.chunk.js"
   ]
 }
